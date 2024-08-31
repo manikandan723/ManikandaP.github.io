@@ -1,0 +1,21 @@
+.heater{
+    
+    background: #b5ddec;
+
+    margin: 5px;
+    padding: 5px;
+}
+.h1{
+    margin-left: 40%;
+}
+#email{
+    margin-left: 80%;
+    color: blue;
+}
+h3{
+    background-color: rgb(189, 245, 245);
+}
+#contect{
+ padding-left: 50%;
+  padding-right: 50%;
+}
